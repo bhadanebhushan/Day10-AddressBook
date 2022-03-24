@@ -91,4 +91,5 @@ public class Contact {
 		return "Contact [firstName=" + firstName + ", lastName=" + lastName + ", address=" + address + ", city=" + city
 				+ ", state=" + state + ", zipcode=" + zipcode + ", phoneNo=" + phoneNo + ", email=" + email + "]";
 	}
+
 }

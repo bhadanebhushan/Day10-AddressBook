@@ -54,10 +54,7 @@ public class AddressBook {
 						System.out.println("------------------------------------");
 
 						ListIterator<Contact> listIterator = array.listIterator();
-						/*
-						 * It is a java iterator which is used to traverse all types of lists including
-						 * ArrayList, Vector, LinkedList, Stack
-						 */
+						
 
 						while (listIterator.hasNext()) {
 							contact = listIterator.next();
